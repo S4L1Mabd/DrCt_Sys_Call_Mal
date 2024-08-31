@@ -1,3 +1,11 @@
+<!--   my-ticker -->    
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F0E68C&center=true&vCenter=true&width=250&lines=S4L1M+MalWareDev"")](https://git.io/typing-svg) -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%F0E68C&center=true&vCenter=true&width=250&lines=S4L1M+MalWareDev" alt="Typing SVG">
+  </a>
+</p>
 # Malware Model: Direct Syscalls for EDR Evasion
 
 This repository showcases a malware model that uses Direct Syscalls to evade Endpoint Detection and Response (EDR) systems. The malware is developed using C and Assembly, focusing on bypassing traditional security mechanisms that detect Native API or standard system calls.
